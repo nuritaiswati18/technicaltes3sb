@@ -1,0 +1,18 @@
+{
+  "name": "cypress-elefin",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "nurita.iswati",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@badeball/cypress-cucumber-preprocessor": "^18.0.5",
+    "@bahmutov/cypress-esbuild-preprocessor": "^2.2.0",
+    "@esbuild-plugins/node-modules-polyfill": "^0.2.2",
+    "cypress": "^12.9.0",
+    "esbuild": "^0.19.2"
+  }
+}
